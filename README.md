@@ -30,4 +30,3 @@ pip install ctypes
 pip install matplotlib
 ```
 И перейти к шагу 5
-
